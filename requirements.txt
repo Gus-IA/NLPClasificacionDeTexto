@@ -1,0 +1,9 @@
+torch==2.3.0+cu121
+torchtext==0.17.0
+torchdata==0.7.1
+torchvision==0.18.1+cu121
+torchaudio==2.3.0+cu121
+tqdm==4.65.0
+numpy==1.25.0
+spacy==3.6.1
+en-core-web-sm==3.6.0
